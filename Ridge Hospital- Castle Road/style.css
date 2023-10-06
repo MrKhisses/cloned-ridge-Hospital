@@ -1,0 +1,13 @@
+body{
+    margin: 0;
+}
+.GetQuote{
+    border: 1.5px solid #88B06A ;
+    background-color: #88B06A; 
+    width: fit-content;
+    margin: auto; 
+}
+.GetQuote:hover{
+    transition: 0.1s;
+    background-color: rgb(199, 193, 193);
+}
